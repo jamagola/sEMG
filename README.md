@@ -46,8 +46,8 @@ data**
 
 Raw MyoMex data for 20 experiments of each of the motions from different subjects.
 
-ImageIMU**
+ImageIMU** (https://drive.google.com/drive/folders/1WriIza_WKlYcw2AlbKXyg3H1dStRqImX?usp=sharing)
 Ninapro spatiotemporal feature from ten subjects applying the internal angle of the irregular polygon to construct an image per motion per experiment. Six experiments for each of the 40 motions with IMU data included.
 
-Image**
+Image** (https://drive.google.com/drive/folders/12YxUa0lrVdOCFBvp85_paylZRSuyP0zu?usp=sharing)
 Ninapro spatiotemporal feature from ten subjects applying the internal angle of the irregular polygon to construct an image per motion per experiment. Six experiments for each of the 40 motions with IMU data were excluded.
