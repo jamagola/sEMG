@@ -1,5 +1,6 @@
 # sEMG
 CNN applied to feature engineered sEMG signal for hand motion clasification.
+
 Published work: https://doi.org/10.24352/UB.OVGU-2024-053
 
 
