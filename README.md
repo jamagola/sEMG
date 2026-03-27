@@ -1,5 +1,7 @@
 # sEMG
 CNN applied to feature engineered sEMG signal for hand motion clasification.
+Published work: https://doi.org/10.24352/UB.OVGU-2024-053
+
 
 This repository contains MATLAB scripts and direction to preprocess sEMG data to run on Resnet50 (weights=None) using MATLAB's deep learning tool. Some data are provided including processed data from NinaPro DB4/5 (http://ninaweb.hevs.ch/) and partial data collected from the experiments conducted in the Measurement and Control Engineering Research Center facility at the Idaho State University.
 
